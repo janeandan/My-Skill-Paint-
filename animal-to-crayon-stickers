@@ -1,0 +1,271 @@
+---
+name: animal-to-crayon-stickers
+description: Turn animal photos into consistent, expressive chibi crayon stickers. Create cute wordless reactions or daily-life scenes with contextual colors and outfits; not animation or photo filters.
+trigger-words: [animal stickers, pet reaction stickers, photo to character, crayon sticker pack]
+---
+
+# Animal to Crayon Stickers
+
+Transform animal photographs or existing animal illustrations into lively, cute, character-consistent reaction stickers in a colorful crayon illustration style.
+
+This is a character-design and visual-storytelling skill, not a photo filter. The goal is not merely to add clothes, captions, or texture to a photograph. First establish a recognizable chibi character; then make that character act.
+
+**Core principle: preserve identity, perform the emotion, design the context, and unify the medium.**
+
+## STEP 1 — Understand the Request
+
+Accept one or more animal photos, an approved illustrated character, emotion names, everyday activities, or a combination of these.
+
+Resolve only what is necessary:
+
+- Which animal is the main character? Are multiple photos the same animal or different animals?
+- What reactions or activities are requested, and how many final stickers?
+- Should they contain text? If so, what exact wording?
+- Are style, format, transparency, or character-design choices already established?
+
+Do not invent names, genders, relationships, breeds, or personalities. Use neutral descriptions unless these facts are supplied or necessary visual traits are clearly evidenced.
+
+Before a new series, confirm wording or no-text status if it is unresolved. Once confirmed, do not ask again for each sticker. Emotion labels are not automatically captions. A wordless series must contain no captions, letters, sound-effect text, watermarks, or pasted emoji graphics. User emoji may indicate a gesture or expression, not a literal asset to paste into the image.
+
+Treat a combined label such as “excited and thrilled” as one performance unless the user requests separate variants. One intended reaction equals one final artifact. Never turn a requested set into a contact sheet unless explicitly asked.
+
+For this style, propose independent square PNG stickers, approximately 1024 × 1024, with transparent outer boundaries when the user has not chosen another format. Confirm missing framing decisions before production. User-selected dimensions and output requirements override recommendations.
+
+## STEP 2 — Separate Reference Contributions
+
+Inspect the actual images. Assign each one a role:
+
+- **Identity:** animal anatomy, facial proportions, markings, ears, muzzle, paws, tail, and distinctive visible traits.
+- **Style:** crayon marks, shape language, illustration density, and compositional treatment.
+- **Performance:** expression, gesture, posture, and comic exaggeration.
+- **Scene:** activity, props, environment, and spatial relationships.
+- **Edit source:** the current artwork whose unaffected elements must remain intact.
+
+One image may contribute several dimensions. Use all specified references for their assigned purpose without merging unrelated identities.
+
+A funny shark face can inspire facial exaggeration without donating shark teeth or 3D rendering. A bear sticker sheet can inspire poses without turning a photographed cat into a bear. A photographed collar may be an identity detail; the sofa behind the pet is not automatically a required setting for every sticker.
+
+Preserve compatible salient traits instead of reducing references to generic mood or texture. Let references carry their actual colors; do not invent palette measurements. If an image cannot be inspected, acknowledge the limitation rather than claiming observations.
+
+## STEP 3 — Build a Recognizable Chibi Character
+
+### Extract a compact identity specification
+
+Record the few visible traits that make this individual recognizable:
+
+- Head shape and relative face width.
+- Eye placement, eyelid shape, and recognizable brow or eye-area markings.
+- Nose or beak, muzzle length, cheeks, and mouth structure.
+- Fur, feather, scale, or skin pattern: especially boundaries and asymmetries.
+- Ear shape, length, orientation, and characteristic silhouette.
+- Body mass, limb character, tail shape, and distinctive appendages.
+- Existing accessories only when user-approved or clearly important to identity.
+
+Do not infer hidden markings from one photograph. Use additional views if needed; ask only when an unseen feature materially affects the requested output.
+
+### Translate; do not replace
+
+Use a **1–3-head-tall chibi design**, typically around two heads tall for full-body stickers:
+
+- A rounded, relatively large head.
+- A compact soft body, short limbs, and simplified rounded extremities.
+- A visible torso and shoulder structure even when the head dominates.
+- Simplified, expressive features without losing species or individual identity.
+
+Do not make the character progressively taller, more human, more realistic, or more baby-like at the expense of recognition. Do not insert new forehead stripes, recolor markings to match clothes, change ear types, remove a distinctive tail, or substitute a different species.
+
+Adapt the design to the animal. A rabbit retains its long-ear structure; a bird retains a beak and coherent wings; a cat retains its ear and tail silhouette. Anthropomorphism should support acting without erasing species-defining structures.
+
+### Establish the shared anchor
+
+For a new animal, create one reusable character prototype before producing identity-dependent finals, unless a suitable approved illustration already exists. For a substantial first-time pack, obtain approval of this prototype to avoid multiplying an incorrect identity. A small, explicit character-conversion request need not become a lengthy planning exercise.
+
+Use the same approved anchor for the series. A shared prompt or a batch request alone does not ensure visual identity. Do not use a flawed later image as the new standard. With multiple animals, preserve separate identities rather than duplicating one character in different clothes.
+
+## STEP 4 — Design the Performance
+
+For each reaction, decide its emotional meaning, gaze, eyebrows, mouth, body tension, limb gesture, ears, and tail before choosing decoration.
+
+**The sticker must read without its title.** A different word, outfit, or background on an unchanged pose is not a new performance.
+
+Use coordinated signals:
+
+- Eyes communicate attention, energy, vulnerability, and intention.
+- Eyebrows and mouth refine the emotional meaning.
+- Shoulders, spine, and weight reveal confidence, fatigue, or hesitation.
+- Paws, wings, feet, ears, and tail supply action and rhythm.
+- Graphic accents reinforce the performance; they do not replace it.
+
+Vary the gaze naturally. A reading animal looks at its book; a hungry animal looks at food or a thought bubble; an intimate reaction may look directly at the viewer. Do not give all subjects identical faces or camera-facing eyes.
+
+### Performance examples
+
+Adapt these to the animal's anatomy, rather than copying a fixed template:
+
+| Reaction | Useful performance | Common failure |
+|---|---|---|
+| Shy | Lowered head, upward stolen glance, red cheeks, tucked shoulders, subtle torso twist; paws behind the back or rounded fingertips touching; inward-pointing feet when appropriate | Proud raised chin or generic smiling |
+| Embarrassed | Sideways eyes, awkward small mouth, shoulders drawn in, picking at the other paw near the waist | Prayer hands mistaken for nervous fidgeting |
+| Cute grin | Soft raised cheeks, relaxed brows, a modest open smile with tiny rounded teeth if appropriate | Full-row clenched dentures, sharp teeth, uncanny grin |
+| Secret giggle | One paw near the mouth, uneven brows, curved eyes, slight sideways lean | Malicious smile or a duplicated laughter pose |
+| Big laughter | Bent waist, uneven shoulders, closed curved eyes, rounded open mouth; one paw holds the belly | Static upright body under a giant mouth |
+| Excitement | Small bounce, bright eyes, raised brows, little fists near the chest, animated tail | Random stars around an expressionless figure |
+| Hug request | Lean toward the viewer, arms open widely and possibly raised above the shoulders, expectant eyes | Stiff horizontal arms or oversized disconnected palms |
+| Gratitude | Gentle forward inclination, heartfelt smile, paws close to the chest or holding a small symbolic heart | Automatically adding money or a religious gesture |
+| Wronged feelings | Lowered head, raised inner brows, watery eyes, downturned mouth, inward shoulders | Cheerful palette and elaborate party clothes |
+| Afraid | Contracted body, tucked tail, vulnerable eyes, slight trembling | Horror imagery or aggressive expression |
+| Panicked | Off-balance urgency, asymmetrical gestures, moving ears, abrupt gaze | Reusing the static fear pose |
+| Hungry | Flat or gently tucked abdomen, a paw on the belly, longing eyes, small drool strand | Round swollen belly that reads as overeating |
+| Sleepy | Stretch, large yawn, heavy lids, clearly visible dark circles, gently unsteady posture | Random flying marks that look like mosquitoes |
+| Tender concern | Compassionate gaze and a rounded paw reaching toward the lens as if comforting the viewer | Static props instead of the requested affection |
+
+Exaggeration should remain cute and physically coherent. Comic crying may create thick tear streams or an enormous river, but its size and water level must match the actual request. A sideways character's tears fall toward the supporting surface, not against gravity. A flattened sleepy body remains one coherent animal, not a melting multi-limbed creature.
+
+## STEP 5 — Decide Whether a Scene Is Needed
+
+### Pure emotional reactions
+
+For shyness, awkwardness, giggling, gratitude, surprise, excitement, laughter, fear, or a hug request, prefer a character-led portrait, half-body close-up, or compact full-body pose.
+
+Use selective irregular color patches, breathing room, and a few meaningful movement marks. Do not add a desk, bed, flower garden, or room merely to fill space. Do not apply the same circular halo or radiating flower pattern to the entire pack.
+
+### Daily-life activities
+
+Working, commuting, exercise, reading, dating, cooking, travel, and similar activities require a recognizable setting. Include enough environmental evidence to explain the action, without overwhelming the face and gesture.
+
+- Arrange objects so the key gesture remains visible.
+- Establish contact, support, reach, and gaze relationships.
+- Select clothing and accessories appropriate to the activity.
+- Give different activities genuinely different layouts and settings.
+
+Examples:
+
+- **Office hunger:** side-positioned desk and office chair; one paw touches a flat belly. An upper-right thought bubble may show juicy cooked roast duck on a plate, joined to the head by small bubbles.
+- **Viewer-facing craving:** a dining-table setting, wide eager eyes, a small drool strand, and paws holding the sides of the lens. Do not draw a camera prop instead.
+- **Sleepiness:** stretch at a workstation or after arriving home. Do not automatically reuse a bed.
+- **Reading:** gaze at the page, paws touch the book, props form a deliberate frame around the subject.
+- **Driving:** eyes on the road, appropriate limb contact with the wheel, coherent seat belt.
+- **Cooking:** utensils are actually held; bodies and objects are supported.
+- **Exercise:** suitable clothing and readable motion, without adult human chest or hip anatomy.
+- **Quiet sadness:** a slumped back view, low tail, and restrained landscape can express emotion without exposing the face.
+
+Use the user's requested setting rather than treating these examples as mandatory content.
+
+## STEP 6 — Make Color and Clothing Emotional Decisions
+
+**Rich color is not high saturation.** Use softly layered, varied hues with a clear dominant family, supporting colors, and small accents. Preserve facial contrast and avoid muddy overpainting.
+
+Choose color temperature, value rhythm, and visual density according to the emotion:
+
+- Hurt, loneliness, or subdued sadness may use cool blue-gray and muted violet, sparse accents, and simple clothes.
+- Affection or gratitude may use gentle warm colors without becoming sugary or crowded.
+- Excitement can use brighter focal accents without saturating the entire illustration.
+- Fear and panic need readable contrast and movement, not necessarily dark horror colors.
+
+These are contextual choices, not rigid psychological color laws. Explicit user palettes take priority. Background treatment must not recolor the animal's identity markings.
+
+Vary outfits and accessories deliberately:
+
+- Options include simple tops, skirts, trousers, coordinated sets, coats, knitwear, bows, clips, barrettes, hats, and headbands.
+- Emotional vulnerability often benefits from plain clothes and fewer accessories.
+- Rich environments usually need simpler clothing.
+- A simple portrait can carry one distinctive wardrobe detail.
+- Not every animal needs clothes. Preserve an unclothed presentation when requested or appropriate.
+- Do not repeat striped pajamas, bows, elaborate dresses, or the same flower clip across unrelated themes.
+- Keep the silhouette short, soft, and chibi regardless of wardrobe.
+
+## STEP 7 — Preserve Believable Cartoon Anatomy
+
+A recurring failure is a limb appearing to grow from an ear, cheek, or head. Prevent this explicitly.
+
+- Front limbs originate from the torso's shoulders or sleeves below the jaw, never from an ear edge or tip.
+- Keep the shoulder–elbow–wrist–paw chain readable where relevant.
+- Separate ears from raised arms through spacing, silhouette, and deliberate overlap.
+- Preserve species-appropriate limb counts. Simplification and occlusion must not create extra limbs.
+- Keep paws short, thick, and rounded. Avoid adult human fingers unless explicitly requested.
+- For fingertip-touching gestures, retain two distinct paws and connected forearms.
+- For crossed arms, embracing, or holding objects, establish front/back ordering.
+- Hidden limbs must be plausibly occluded, not replaced with additional visible paws.
+- Raised or reaching paws may enlarge in perspective, but must not become detached spheres or block the face.
+- Show believable weight, balance, support, and contact with props.
+
+Adapt these principles to wings, fins, hooves, or other animal structures. Do not blindly graft dog arms onto every species. If a requested gesture conflicts with essential anatomy, use a legible stylized equivalent or ask before making a major redesign.
+
+## STEP 8 — Unify the Colorful Crayon Illustration Style
+
+Apply the same tactile medium to the animal, clothes, props, scenery, food, water, emotion marks, and any requested lettering:
+
+- Broad side-of-crayon strokes with natural pressure variation.
+- Coarse grain, interrupted contours, tiny unfilled gaps, and irregular edges.
+- Light overlapping layers and visible directional marks.
+- Simplified fur or feather masses rather than photorealistic strands.
+- Graphic shape rhythm and a deliberate balance of filled areas and breathing room.
+
+Avoid smooth vector outlines, glossy 3D shading, airbrushed gradients, realistic fur with a noise overlay, and heavy opaque filling everywhere. A style reference is not permission to replace the character's identity.
+
+For optional text, use exact user-approved wording and harmonious hand-drawn lettering. Position it with the gesture and composition rather than forcing a fixed bottom label. Never guess unreadable source wording.
+
+## STEP 9 — Compose, Generate, and Edit
+
+Prepare each image brief in this order:
+
+1. User's current goal.
+2. Contribution of each reference.
+3. Required identity and species traits.
+4. Coordinated facial expression, gesture, and framing.
+5. Scene only if useful; coherent palette, clothing, and accents.
+6. Crayon treatment, text policy, edge treatment, and relevant constraints.
+
+One brief describes one final image. Use the approved anchor for all identity-dependent outputs. Batch independent stickers where supported, without treating batch execution as a substitute for an identity reference.
+
+Use available image capabilities rather than prescribing a provider, model, API schema, or local file path. Respect user model choices and verify reference compatibility. Do not silently raise paid quality tiers.
+
+For edits, preserve everything outside the requested scope:
+
+- New skirt: preserve face, body proportions, hands, feet, pose, and background.
+- Cooler palette and plain clothing: preserve the existing expression and silhouette.
+- New gesture: update the relevant limbs and balance, not the entire character identity.
+- User-corrected identity: return to the approved anchor instead of accumulating drift.
+
+Do not add unnecessary approval rounds to a clear small edit. For a new character prototype or unresolved creative choice that affects a large set, obtain approval before multiplying the design.
+
+## STEP 10 — Validate and Deliver
+
+Visually inspect outputs when possible. A successful generation is not proof that the artwork is correct.
+
+Check:
+
+- **Recognition:** same individual animal, marking topology, species, ears, muzzle, tail, and approved silhouette.
+- **Proportions:** consistent 1–3-head-tall chibi design, short limbs, readable shoulders.
+- **Performance:** emotion reads without labels; gaze and body language agree.
+- **Anatomy:** no ear-hands, extra limbs, disconnected paws, or broken support relationships.
+- **Context:** setting, palette, clothing, and props fit the theme.
+- **Style:** tactile crayon marks across the whole image, not just the character.
+- **Composition:** complete important parts, safe margins, purposeful negative space, no neighboring panel fragments.
+- **Text:** exact wording or genuinely no text, as requested.
+- **Transparency:** real transparency outside the natural illustration boundary, not a painted checkerboard, black rectangle, or white backdrop.
+
+Transparency does not mean deleting all background art. Preserve the intended river, furniture, thought bubble, or local landscape with natural crayon edges. Do not indiscriminately remove meaningful scenery to obtain a cutout.
+
+If something fails, repair only the affected output. Preserve successful siblings. After an interruption or timeout, check for recovered output before retrying. Do not blindly repeat an identical failed request or regenerate a complete pack to fix one image.
+
+Deliver real, usable files with clear names. Keep outputs in the active project, use returned file locations, and avoid duplicate delivery cards. Organize related new outputs together where supported. State verified outcomes accurately; do not claim visual inspection or perfect transparency without evidence.
+
+## Final Quality Question
+
+> Without captions or decoration, does this look like the same animal genuinely feeling or doing the requested thing?
+
+If not, improve identity, expression, or gesture before adding more objects.
+
+## Trigger Tests
+
+Should activate:
+
+- “Turn this rabbit photo into six cute, wordless crayon reaction stickers.”
+- “Keep my dog's identity; make this wronged expression cooler in color and simpler in clothing.”
+
+Should not be the primary skill for:
+
+- “Animate this pet doing a dance.”
+- “Remove the background from this photo without redrawing it.”
+- “Create an editable vector logo for my veterinary clinic.”
